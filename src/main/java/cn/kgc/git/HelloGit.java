@@ -9,11 +9,19 @@ public class HelloGit {
 		System.out.println("11111111");
 		System.out.println("11111111");
 		System.out.println("aaaaaaaaaaa");
+
 		
 		System.out.println("bbbbbbbbbb");
 		System.out.println("cccccccccccc");
 		System.out.println("11111111");
 	
+
+		System.out.println("bbbbbbbbbb");
+		
+		
+		System.out.println("11111111aaaaaaa");
+		
+
 	}
 
 }
